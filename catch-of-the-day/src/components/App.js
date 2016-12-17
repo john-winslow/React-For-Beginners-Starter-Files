@@ -1,8 +1,8 @@
 import React from 'react';
 import Header from './Header';
 import Order from './Order';
-import Inventory from './Inventory'
-import NotFound from './NotFound'
+import Inventory from './Inventory';
+import NotFound from './NotFound';
 
 class App extends React.Component {
   render() {
